@@ -2,3 +2,5 @@ body {
   background-color:#ffffff;
   margin-top: 195px;
 }
+
+div#overlay { display: none; z-index: 2; background-image:url('http://farm1.staticflickr.com/110/284580776_bd729f3bf7.jpg'); position: fixed; width: 100%; height: 100%; top: 0px; left: 0px; text-align: center; } div#specialBox { display: none; position:absolute; top: 0px; left: 0px; z-index: 3; margin: 150px auto 0px auto; width: 500px; height: 300px; background: #FFF; color: #000; } 
